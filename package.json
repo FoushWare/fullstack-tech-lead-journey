@@ -1,0 +1,14 @@
+{
+  "name": "fullstack-tech-lead-journey",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "node labs/day-01-event-loop/server.js",
+    "dev": "node --watch labs/day-01-event-loop/server.js",
+    "check": "node --check labs/day-01-event-loop/server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
